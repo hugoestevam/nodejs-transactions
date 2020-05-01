@@ -1,4 +1,4 @@
-# ReactJS - Desafio 02
+# NodeJS - Transactions
 
 Para executar este projeto em seu potencial é necessário ter o Node rodando na máquina.
 
