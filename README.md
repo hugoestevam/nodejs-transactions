@@ -22,7 +22,7 @@ Todas as dependencias podem ser opcionalmente instaladas através do [Chocolatey
 O download do projeto pode ser feito através do `git` seguindo os passos:
 
     -aponte para a pasta da solução
-     > git clone https://github.com/hugoestevam/reactjs-desafio-02.git
+     > git clone https://github.com/hugoestevam/nodejs-transactions.git
 
 #### Preparando o ambiente
 
